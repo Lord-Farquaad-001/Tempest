@@ -13,17 +13,21 @@ Launch Page:
 
 <img width="899" height="483" alt="Screenshot 2025-12-11 at 2 16 19 PM" src="https://github.com/user-attachments/assets/4c0aeaf0-cd87-4e77-a4ac-98adfe50248c" />
 
+
 Entry Page (allows user to enter daily weather data): 
 
 <img width="896" height="441" alt="Screenshot 2025-12-11 at 2 13 15 PM" src="https://github.com/user-attachments/assets/8e7cd872-bea6-4176-be45-6f250c445e82" />
 
+
 Analytics Page (allows user to define parameters for analysis): 
 
-<img width="549" height="582" alt="Screenshot 2025-12-11 at 2 12 10 PM" src="https://github.com/user-attachments/assets/a7d43b5c-a9a0-455d-9090-5c8b569ed264" />
+<img width="544" height="592" alt="Screenshot 2025-12-11 at 4 06 42 PM" src="https://github.com/user-attachments/assets/3b3452ba-ff4c-4d61-9a1b-ccdc73dd2ec1" />
+
 
 Table Output from Analytics Page:
 
-<img width="1048" height="278" alt="Screenshot 2025-12-11 at 2 12 20 PM" src="https://github.com/user-attachments/assets/cfe1174a-e750-4b75-84d5-88df5d77227e" />
+<img width="1030" height="300" alt="Screenshot 2025-12-11 at 4 06 29 PM" src="https://github.com/user-attachments/assets/822bc3b8-fccd-4e0c-a792-f2884efb489b" />
+
 
 Graph Page (custom graphing class): 
 
