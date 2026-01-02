@@ -1,4 +1,4 @@
-Tempest is a desktop app designed to track weather patterns. It includes a lightweight custom graphing class, a querry page with several parameters that generates a page displaying the querried data in tabular format, and a driver page featuring a robust set of input validation measures to enter weather data and ensure that this data is "clean".
+Tempest is a desktop app designed to track weather patterns. It includes a lightweight custom graphing class that is build using graphics alone by drawing points and lines based on arrays of data, a querry page with several parameters that generates a page displaying the querried data in tabular format, and a driver page featuring a robust set of input validation measures to enter weather data and ensure that this data is "clean".
 Data is stored in .txt files. 
 
 The Tempest app was developed in Java, using the Swing library for all GUI components. 
